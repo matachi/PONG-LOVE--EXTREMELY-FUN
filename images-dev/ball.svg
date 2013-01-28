@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4011"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="ball.svg"
+   inkscape:export-filename="/home/matachi/games/pong-love/images/ball.png"
+   inkscape:export-xdpi="29.309994"
+   inkscape:export-ydpi="29.309994">
+  <defs
+     id="defs4013">
+    <linearGradient
+       id="linearGradient4529">
+      <stop
+         style="stop-color:#006a6e;stop-opacity:1;"
+         offset="0"
+         id="stop4531" />
+      <stop
+         style="stop-color:#00bc80;stop-opacity:1;"
+         offset="1"
+         id="stop4533" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4529"
+       id="linearGradient4535"
+       x1="221.73355"
+       y1="452.33157"
+       x2="374.25644"
+       y2="452.33157"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="279.66334"
+     inkscape:cy="601.87566"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1631"
+     inkscape:window-height="1026"
+     inkscape:window-x="1729"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4016">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:20.5;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1;fill:url(#linearGradient4535)"
+       id="path4019"
+       sodipodi:cx="297.995"
+       sodipodi:cy="452.33157"
+       sodipodi:rx="75.761444"
+       sodipodi:ry="75.761444"
+       d="m 373.75644,452.33157 a 75.761444,75.761444 0 1 1 -151.52289,0 75.761444,75.761444 0 1 1 151.52289,0 z"
+       inkscape:export-filename="/home/matachi/games/pong-love/images/ball.png"
+       inkscape:export-xdpi="29.120323"
+       inkscape:export-ydpi="29.120323" />
+  </g>
+</svg>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   inkscape:export-filename="/home/matachi/games/pong-love/player.png"
+   inkscape:export-xdpi="89.663757"
+   inkscape:export-ydpi="89.663757"
+   sodipodi:docname="player.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3757">
+      <stop
+         style="stop-color:#b5ff00;stop-opacity:1;"
+         offset="0"
+         id="stop3759" />
+      <stop
+         style="stop-color:#00ff1e;stop-opacity:1;"
+         offset="1"
+         id="stop3761" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3757"
+       id="linearGradient3767"
+       x1="360.18579"
+       y1="509.65775"
+       x2="463.05585"
+       y2="527.33545"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3757"
+       id="linearGradient3871"
+       x1="264.26993"
+       y1="487.31876"
+       x2="396.41885"
+       y2="525.62067"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="309.94559"
+     inkscape:cy="549.31748"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1631"
+     inkscape:window-height="1026"
+     inkscape:window-x="1729"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient3767);fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;fill-opacity:1;opacity:1;stroke-miterlimit:20.50000000000000000;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985"
+       width="49.18232"
+       height="158.31148"
+       x="349.90656"
+       y="430.50201" />
+    <path
+       sodipodi:type="arc"
+       style="stroke:#000000;stroke-width:1.06104059999999989;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:20.50000000000000000;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1;fill:url(#linearGradient3871)"
+       id="path3093"
+       sodipodi:cx="290.67139"
+       sodipodi:cy="507.7637"
+       sodipodi:rx="26.011427"
+       sodipodi:ry="80.180855"
+       d="m 316.68281,507.7637 a 26.011427,80.180855 0 1 1 -52.02285,0 26.011427,80.180855 0 1 1 52.02285,0 z"
+       transform="matrix(0.91026508,0,0,0.97581641,42.35077,14.557447)"
+       inkscape:export-filename="/home/matachi/games/pong-love/images/player.png"
+       inkscape:export-xdpi="93.141159"
+       inkscape:export-ydpi="93.141159" />
+  </g>
+</svg>
