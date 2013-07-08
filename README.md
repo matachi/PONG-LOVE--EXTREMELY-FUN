@@ -7,6 +7,8 @@ Licenses:
  * Code: [GPLv3 or later](http://www.gnu.org/licenses/gpl.html)
  * Art: [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 
+![Screenshot](images/screenshot1.png)
+
 ## How to run
 
     love src/.
